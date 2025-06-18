@@ -125,3 +125,10 @@ streamlit run web_app.py
 | Story Coherence       | 25%    |
 | Character Consistency | 20%    |
 | Creativity            | 15%    |
+
+### Demo Video
+
+[Click Here](https://drive.google.com/file/d/1zuB846df_Os-3yTa9Zgyer6sk8bra-Mc/view?usp=sharing)
+
+### Author
+Developed by Pichika Parimala Durga Srivalli as part of an assignment.
