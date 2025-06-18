@@ -15,7 +15,7 @@ A Python project that generates comic strips from story prompts using AI-powered
 
 - **Comic Generation**
   - Generates 4-panel comic strips
-  - AI-generated images (via Stable Diffusion or similar)
+  - AI-generated images
   - Speech bubble placement
   - Clean panel layout
 
@@ -27,7 +27,7 @@ A Python project that generates comic strips from story prompts using AI-powered
 ### Bonus
 - Character library support
 - Sound effect text support
-- Web comic viewer (Flask-based)
+- Web comic viewer
 
 ---
 
@@ -40,7 +40,7 @@ A Python project that generates comic strips from story prompts using AI-powered
   - `torch`
   - `nltk`
   - `Pillow`
-  - `flask` (for web viewer)
+  - `streamlit`
 
 Install all dependencies with:
 
