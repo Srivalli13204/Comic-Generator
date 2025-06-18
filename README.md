@@ -1,6 +1,7 @@
 # Comic Generator
 
 A Python project that generates comic strips from story prompts using AI-powered image generation and comic panel layout logic.
+![Web Preview](https://github.com/user-attachments/assets/e2f95375-46ec-4ae7-ad57-c7f87681b13c)
 
 ---
 
